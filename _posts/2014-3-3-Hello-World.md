@@ -2,8 +2,18 @@
 layout: post
 title: You're up and running!
 ---
+## How do you do this ##
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I remember this from _wikia_.  
+> wow  
+>> wowow
+
+```C++
+if(C++)
+{
+  prinf("wtf");
+}
+```
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
